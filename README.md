@@ -14,7 +14,7 @@ Quick start
         'urlshortener',
     )
 
-2. Include the polls URLconf in your project urls.py like this::
+2. Include the urlshortener URLconf in your project urls.py like this::
 
     url(r'', include('urlshortener.urls')),
 
